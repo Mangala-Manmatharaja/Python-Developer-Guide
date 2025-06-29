@@ -1,4 +1,4 @@
-# 🐍 Python Developer Gui
+# 🐍 Python Developer Guid
 
 ## 📌 Why Python?
 * Python is a general-purpose, high-level programming language.
