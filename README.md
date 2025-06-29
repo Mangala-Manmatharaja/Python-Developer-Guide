@@ -1,4 +1,4 @@
-# 🐍 Python Develo
+# 🐍 Python Develop
 
 ## 📌 Why Python?
 * Python is a general-purpose, high-level programming language.
